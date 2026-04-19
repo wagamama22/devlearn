@@ -1,0 +1,7 @@
+{
+  "name": "DevLearn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
