@@ -4,7 +4,7 @@ DevLearn is a mobile app learning platform prototype built with Ionic React, Typ
 
 # Live Demo & Downloads
 
-# Devlearn Web App Build (Hosted)
+Devlearn Web App Build (Hosted)
 
 Experience DevLearn online: https://devlearn.morganugochukwu.com
 
