@@ -1,9 +1,13 @@
-£ DevLearn : Mobile App Learning Platform Prototype (Academic Project)
+# DevLearn : Mobile App Learning Platform Prototype (Academic Project)
+
 DevLearn is a mobile app learning platform prototype built with Ionic React, TypeScript, and a modern component driven architecture. It demonstrates my ability to design, structure, and implement a functional training marketplace where users can browse educational offerings, place tutorial orders, manage form inputs, and review totals in a clean, responsive UI.
-Live Demo & Downloads
-Devlearn Web App Build (Hosted)
+
+# Live Demo & Downloads
+
+# Devlearn Web App Build (Hosted)
 Experience DevLearn online: https://devlearn.morganugochukwu.com
-Android APK (Hosted)
+
+# Android APK (Hosted)
 Download and install the mobile version: https://devlearn.morganugochukwu.com/devlearnapk/devlearn-app.apk
 Project Overview
 DevLearn is structured as a modular learning platform prototype with:
