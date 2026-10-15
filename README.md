@@ -125,3 +125,33 @@ I showed competence in:
 •	Domain configuration
 
 Download and install the apk to start using it 
+
+
+## Author
+
+Morgan Chinedu Ofodum
+
+Junior Software Developer 
+
+### Areas of interest include:
+
+•	Software Development
+
+•	Front-End Engineering
+
+•	Web Applications
+
+•	JavaScript Development
+
+•	Enterprise Software Solutions
+
+•	Technology Consulting
+
+I am actively seeking opportunities where I can contribute, learn from experienced teams, and continue developing into a high performing software professional.
+
+### Career Objective
+
+I am particularly interested in graduate and junior-level opportunities within innovative technology and consulting organisations.
+
+
+
